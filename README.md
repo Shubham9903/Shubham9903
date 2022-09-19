@@ -5,6 +5,10 @@
   <img align="left" alt="Shubham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://discord.gg/mXAYw7aE">
+  <img align="left" alt="Vivek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Shubham9903.Shubham9903)
 <br>
 
