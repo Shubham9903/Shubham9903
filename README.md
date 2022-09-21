@@ -9,7 +9,7 @@
   <img align="left" alt="Vivek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Shubham9903.Shubham9903)
+![](https://visitor-badge.glitch.me/badge?page_id=shubhamrupapara.shubhamrupapara)
 <br>
 
 <p>
@@ -20,9 +20,9 @@
 
 <br/>
 <p align="left">
-  <a href="https://github.com/Shubham9903">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubham9903&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham9903&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/shubhamrupapara">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shubhamrupapara&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrupapara&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
@@ -30,7 +30,7 @@
 
 
 
-  <a href="https://github.com/Shubham9903/github-readme-stats"><img alt="Shubham Rupapara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham9903&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shubhamrupapara/github-readme-stats"><img alt="Shubham Rupapara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrupapara&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 ## Tech Stack
@@ -39,10 +39,10 @@
   
 <br/>
 
-[![Shubham Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shubham9903&custom_title=Shubham%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Shubham9903)
+[![Shubham Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubhamrupapara&custom_title=Shubham%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Shubham9903)
 
 ------
 
-Credit: [Shubham Rupapara](https://github.com/Shubham9903)
+Credit: [Shubham Rupapara](https://github.com/shubhamrupapara)
 
 Last Edited on: 15/09/2022
