@@ -9,7 +9,8 @@
   <img align="left" alt="Vivek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=shubhamrupapara&countColor=%237B1E7A)<br>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=${shubhamrupapara}&left_color=white&right_color=orange)
+<br>
 
 <p>
 </p>
