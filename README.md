@@ -39,7 +39,7 @@
   
 <br/>
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhamrupapara&theme=xcode)](https://github.com/shubhamrupapara/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhamrupapara&theme=rogue)](https://github.com/shubhamrupapara/github-readme-activity-graph)
 
 ------
 
