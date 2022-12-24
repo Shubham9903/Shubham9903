@@ -2,11 +2,11 @@
 
 
 <a href="https://www.linkedin.com/in/shubham-rupapara">
-  <img align="left" alt="Shubham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shubham's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://discord.gg/mXAYw7aE">
-  <img align="left" alt="Vivek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Shubham's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=shubhamrupapara&countColor=blue)
