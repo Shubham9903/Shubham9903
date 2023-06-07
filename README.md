@@ -39,7 +39,7 @@
   
 <br/>
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamrupapara&theme=x-code)](https://github.com/shubhamrupapara/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamrupapara&theme=react-dark)](https://github.com/shubhamrupapara/github-readme-activity-graph)
 
 ------
 
