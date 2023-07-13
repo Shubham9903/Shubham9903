@@ -23,8 +23,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/shubhamrupapara">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shubhamrupapara&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrupapara&theme=gruvbox&hide_border=true" />
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=shubhamrupapara&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrupapara&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
