@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/shubham-rupapara">
   <img align="left" alt="Shubham's LinkedIN" width="22px" src="https://github.com/shubhamrupapara/shubhamrupapara/assets/84114759/654ce162-9c22-44a0-a7b8-3c3926d5e0f7" />
 </a>
-<a href="https://hits.sh/github.com/vivekkakadiya/"><img alt="Hits" src="https://hits.sh/github.com/vivekkakadiya.svg?label=Profile%20views&color=2E3440&labelColor=434C5E"/></a>
-<br>
-
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=shubhamrupapara&countColor=blue)
 <br>
