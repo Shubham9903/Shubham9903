@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://discord.gg/mXAYw7aE">
-  <img align="left" alt="Shubham's Discord" width="22px" src="https://github.com/shubhamrupapara/shubhamrupapara/assets/99493336/9e135459-cc78-4d4a-a2c2-43d7f5242e07" />
+  <img align="left" alt="Shubham's Discord" width="25px" src="https://github.com/shubhamrupapara/shubhamrupapara/assets/99493336/9e135459-cc78-4d4a-a2c2-43d7f5242e07" />
 
 </a>
 
