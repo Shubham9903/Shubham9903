@@ -1,15 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://discord.gg/mXAYw7aE">
-  <img align="left" alt="Shubham's Discord" width="22px" src="https://github.com/shubhamrupapara/shubhamrupapara/assets/84114759/7c142ff4-edc6-4469-94ac-25e00ef34f99" />
+  <img align="left" alt="Shubham's Discord" width="22px" src="https://github.com/shubhamrupapara/shubhamrupapara/assets/99493336/9e135459-cc78-4d4a-a2c2-43d7f5242e07" />
+
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-rupapara">
-  <img align="left" alt="Shubham's LinkedIN" width="22px" src="https://github.com/shubhamrupapara/shubhamrupapara/assets/84114759/654ce162-9c22-44a0-a7b8-3c3926d5e0f7" />
+  <img align="left" alt="Shubham's LinkedIn" width="22px" src="https://github.com/shubhamrupapara/shubhamrupapara/assets/99493336/9eacefbf-220e-4a07-9ca9-b47181da84a5" />
 </a>
+
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=shubhamrupapara&countColor=blue)
 <br>
+
 
 <p>
 </p>
