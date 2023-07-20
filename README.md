@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://discord.gg/nfVuEH2pkA">
-  <img align="left" alt="Shubham's Discord" width="22px" src="discord.png" />
+  <img align="left" alt="Shubham's Discord" width="30px" src="discord.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-rupapara">
-  <img align="left" alt="Shubham's LinkedIN" width="22px" src="linkedin.png" />
+  <img align="left" alt="Shubham's LinkedIN" width="28px" src="linkedin.png" />
 </a>
 
 
