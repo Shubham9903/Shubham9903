@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/nfVuEH2pkA">
-  <img align="left" alt="Shubham's Discord" width="30px" src="discord.png" />
-</a>
 
+<a href="https://discord.gg/nfVuEH2pkA">
+  <img align="left" alt="Shubham's Discord" width="22px" src="discord.png" />
+</a>
 <a href="https://www.linkedin.com/in/shubham-rupapara">
-  <img align="left" alt="Shubham's LinkedIN" width="28px" src="linkedin.png" />
+  <img align="left" alt="Shubham's LinkedIN" width="22px" src="linkedin.png" />
 </a>
 
 
@@ -20,9 +20,13 @@
 ## My Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/shubhamrupapara">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=shubhamrupapara&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.9%" src="https://github-readme-stats.vercel.app/api?username=shubhamrupapara&show_icons=true&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/shubhamrupapara">
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrupapara&theme=gruvbox&hide_border=true" />
   </a>
 </p>
