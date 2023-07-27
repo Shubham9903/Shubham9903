@@ -12,7 +12,7 @@
 </a>
 
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=shubhamrupapara&countColor=grey)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=shubhamrupapara&countColor=darkblue)
 <br>
 
 
