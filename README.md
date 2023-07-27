@@ -4,6 +4,9 @@
 <a href="https://discord.gg/nfVuEH2pkA">
   <img align="left" alt="Shubham's Discord" width="22px" src="discord.png" />
 </a>
+<a href="https://twitter.com/shubhamrupapara">
+  <img align="left" alt="Shubham Rupapara | Twitter" width="22px" src="twitter.png" />
+</a>
 <a href="https://www.linkedin.com/in/shubham-rupapara">
   <img align="left" alt="Shubham's LinkedIN" width="22px" src="linkedin.png" />
 </a>
